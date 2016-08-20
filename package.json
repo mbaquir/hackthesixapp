@@ -10,7 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "ngrok": "^2.2.2"
+  },
   "dependencies": {
     "express": "^4.14.0",
     "nodemon": "^1.10.2",
