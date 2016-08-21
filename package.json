@@ -12,7 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "body-parser": "^1.15.2",
-    "ngrok": "^2.2.2"
+    "ngrok": "^2.2.2",
+    "twilio": "^2.9.2"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
