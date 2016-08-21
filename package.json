@@ -4,12 +4,17 @@
   "description": "hackathon project",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "ngrok": "^2.2.2",
+    "twilio": "^2.9.2"
+  },
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
